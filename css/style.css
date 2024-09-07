@@ -1,9 +1,23 @@
 .container{
     border: solid;
+    background-color:#6a0c0b;
 }
 .personagem{
     text-align: center;
 }
 footer{
     text-align: center;
+    color:white;
 }
+img.animated-gif{
+    width: 120px;
+    height: auto;
+  }
+  header{
+    text-align: center;
+    color: white;
+  }
+  p{
+    font-weight: bold;
+    font-size:large;
+  }
